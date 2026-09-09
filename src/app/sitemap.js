@@ -1,0 +1,1 @@
+export default function sitemap() { const base = "https://jcniva.com"; return ["", "/pricing", "/testimonials", "/privacy", "/terms", "/disclaimer"].map(path => ({ url: `${base}${path}`, lastModified: new Date() })); }
