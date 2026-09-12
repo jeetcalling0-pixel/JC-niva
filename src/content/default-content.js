@@ -42,9 +42,8 @@ export const defaultContent = {
     title: "Hi, I'm jiitendra",
     paragraphs: [
       "I build websites for people who care about what happens after someone lands on the homepage.",
-      "In 2023, I met with an accident and break my spine.I almost lost my one leg. It takes 8 months to recover partially. Since after that i started exploring the online content for motivation and other stuff to remain positive and their i found that many businesses especially coaching websites are just sitting 
-      idle or not doing enough for those coaches.So, during recovery i started  working independently in website development and digital marketing, creating portfolio websites first for friends and gradually clients started coming who want a quality product within their budget.",
-      "My background also includes Quality Analyst in dairy farming in GEA, blogging and digital-marketing work, alongside earlier experience in GEA of developing dairy aftermarket sales and imparting training to farmers and business owners. It taught me to listen carefully, explain clearly and
+      "In 2023, I met with an accident and break my spine.I almost lost my one leg due to high compression on nerves but got operated on time. It takes 8 months to recover. when i was recovering i started exploring the online content for motivation and other stuff and their i experienced that many businesses especially coaching websites are just sitting idle or not doing enough for their businesses.So, during recovery i started  working independently in website development and digital marketing, creating portfolio websites first for friends and gradually clients started coming who want a quality product within their budget.",
+      "My background includes Quality Analyst in dairy farming in GEA, blogging and digital-marketing, alongside earlier experience in GEA of developing dairy aftermarket sales and imparting training to farmers and business owners. It taught me to listen carefully, explain clearly and
       build trust with people before asking them to decide.",
       "That is the thinking behind JC NIVA — Digital Craftsmanship."
     ]
